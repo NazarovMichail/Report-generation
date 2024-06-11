@@ -14,5 +14,6 @@ $\boxed{\text{Разделение текста}}$ $\rightarrow$ $\boxed{\text{�
 
 ## `Решение` :
 
-[Ноутбук решения](https://github.com/NazarovMichail/Report-generation/blob/master/Report%20generation.ipynb)
-
+|Открыть в ноутбуке | Открыть в колабе|
+|:-:|:-:|
+| [Ноутбук](https://github.com/NazarovMichail/Report-generation/blob/master/Report%20generation.ipynb) | <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Report-generation/blob/master/Report%20generation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
