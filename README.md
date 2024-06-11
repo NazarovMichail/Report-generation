@@ -1,10 +1,12 @@
 # Генерация протокола встречи
-<img src='data/img/logo.gif' width=400>
+<img src='data/img/rmlogo.jpg' width=100> 
+
+# Mymeet
 
 ## `Задача`:
 Есть транскрипт встречи, необходимо сгенерировать для него протокол, содержащий самую важную информацию. 
 
-[Подробное описание задачи](https://github.com/NazarovMichail/Report-generation)
+[Подробное описание задачи](https://github.com/NazarovMichail/Report-generation/blob/master/data/info/Тестовое_задание_на_позицию_ML_инженер.pdf)
 
 ## `Алгоритм решения` :
 
@@ -12,5 +14,5 @@ $\boxed{\text{Разделение текста}}$ $\rightarrow$ $\boxed{\text{�
 
 ## `Описание решения` :
 
-[Ноутбук решения](https://github.com/NazarovMichail/Report-generation)
+[Ноутбук решения](https://github.com/NazarovMichail/Report-generation/blob/master/Report%20generation.ipynb)
 
