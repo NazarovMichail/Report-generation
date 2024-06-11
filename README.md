@@ -12,7 +12,7 @@
 
 $\boxed{\text{Разделение текста}}$ $\rightarrow$ $\boxed{\text{Векторизация текста}}$ $\rightarrow$ $\boxed{\text{База данных векторов}}$ $\rightarrow$ $\boxed{\text{GigaChat API }}$ $\rightarrow$ $\boxed{\text{RetrievalQA}}$ 
 
-## `Описание решения` :
+## `Решение` :
 
 [Ноутбук решения](https://github.com/NazarovMichail/Report-generation/blob/master/Report%20generation.ipynb)
 
